@@ -1,7 +1,7 @@
 # Slider Crank **Kinematics** and **Kinetics** - a case study in ***Computational Thinking*** 
 
 
-![image_0.png](internal/README_images/image_0.png)    
+![image_0.png](image_0.png)    
 
 
 
@@ -30,7 +30,7 @@ Some key concepts that are demonstrated include:
 
 
 
-![image_1.png](internal/README_images/image_1.png)
+![image_1.png](image_1.png)
 
 
 
