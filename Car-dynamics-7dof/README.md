@@ -1,7 +1,7 @@
 # 7-dof Transverse Car Dynamics
 
 
- ![image_0.png](NOT_Sharable_OUTSIDE_TMW/README_images/image_0.png)
+ ![image_0.png](README_images/image_0.png)
 
 
 
@@ -25,7 +25,7 @@ Some key concepts that are demonstrated include:
 
 
 
-![image_1.png](NOT_Sharable_OUTSIDE_TMW/README_images/image_1.png)
+![image_1.png](README_images/image_1.png)
 
 
 
@@ -55,7 +55,7 @@ Open, read and RUN the file **DEMO_START_HERE_PLEASE.mlx** this gives an overvie
 
 
 
-![image_2.png](NOT_Sharable_OUTSIDE_TMW/README_images/image_2.png)
+![image_2.png](README_images/image_2.png)
 
 
 ## DEMO_01:    Developing a Road profile model
@@ -65,7 +65,7 @@ Open, read and RUN the file **DEMO_START_HERE_PLEASE.mlx** this gives an overvie
 
 
 
-![image_3.png](NOT_Sharable_OUTSIDE_TMW/README_images/image_3.png)
+![image_3.png](README_images/image_3.png)
 
 
 
@@ -75,7 +75,7 @@ Open, read and RUN the file **DEMO_START_HERE_PLEASE.mlx** this gives an overvie
 
 
 
-   ![image_4.png](NOT_Sharable_OUTSIDE_TMW/README_images/image_4.png)
+   ![image_4.png](README_images/image_4.png)
 
 
 ## DEMO_02:    Deriving and Simulating the Transverse equations of motion for a 7-dof car model
@@ -89,7 +89,7 @@ Open, read and RUN the file **DEMO_START_HERE_PLEASE.mlx** this gives an overvie
 
 
 
-![image_5.png](NOT_Sharable_OUTSIDE_TMW/README_images/image_5.png)
+![image_5.png](README_images/image_5.png)
 
 
 # TODO
@@ -122,7 +122,7 @@ The Demo has the following product dependencies:
    1.  Simscape 
    1.  Simscape Multibody 
    
-![image_6.png](NOT_Sharable_OUTSIDE_TMW/README_images/image_6.png) **ATTENTION**:   A supported C-compiler is also required [https://www.mathworks.com/support/requirements/supported-compilers.html](https://www.mathworks.com/support/requirements/supported-compilers.html) *NOTE:  the FREE compilers that are listed* 
+![image_6.png](README_images/image_6.png) **ATTENTION**:   A supported C-compiler is also required [https://www.mathworks.com/support/requirements/supported-compilers.html](https://www.mathworks.com/support/requirements/supported-compilers.html) *NOTE:  the FREE compilers that are listed* 
 
   
 # Revision History
