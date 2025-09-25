@@ -54,13 +54,6 @@ Some key concepts that are demonstrated include:
 
 2. Simulate dynamic systems with Simulink
 
-## Suggested Audience
-
-CSEs, udergraduate students, professors, mechanical engineering
-
-## Time
-
-N/A
 
 ## Workflow
 
@@ -72,12 +65,9 @@ the products dependencies have been installed
 
 3. Goto the START_HERE tab and look/explore at the 5 listed demos.
 
-## TODO
 
 ## RELEASE last tested in
 R2020b, R2022b
-
-## Revision History
 
 
 
